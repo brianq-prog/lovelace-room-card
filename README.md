@@ -1,6 +1,6 @@
 # Room Card
 
-A compact, highly configurable Home Assistant dashboard card that summarises a room (or several rooms) at a glance: temperature and humidity, lights, security, blinds, media players, vacuum, smart sockets and cameras.
+A compact, highly configurable Home Assistant dashboard card that summarises a room (or several rooms) at a glance: temperature and humidity, lights, security, blinds, media players, vacuum, smart sockets and cameras. Generated with Claude. Please review all code before using!
 
 - Visual editor with every option, no YAML required
 - Auto-discovers entities from one or more **areas**, or pick them by hand
